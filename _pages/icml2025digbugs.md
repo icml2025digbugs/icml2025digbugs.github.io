@@ -152,7 +152,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 ### Submission Instructions
 Papers should be submitted to OpenReview: https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG
 
-We welcome both **long** (up to 8 pages) and **short/position** (up to 6 pages) papers, excluding references, acknowledgments, or appendices. Please use the submission template provided at https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip. Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
+We welcome both **long** (up to 6 pages) and **short/position** (up to 4 pages) papers, excluding references, acknowledgments, or appendices. Please use the submission template provided at https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip. Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
 
 <!-- Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>
 
