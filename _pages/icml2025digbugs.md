@@ -58,7 +58,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 
 <!-- ### Speakers (TBD) -->
 
-### Speakers (Updating)
+### Speakers (Still Updating)
 
 <table style="width:100%">
   <tr>
@@ -79,7 +79,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/nouhadziri-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://riceric22.github.io/">Nouha Dziri</a> <small> <br> Research Scientist <br> Allen Institute for AI (AI2) </small> </td>
+    <td style="text-align:center"><a href="https://nouhadziri.github.io/">Nouha Dziri</a> <small> <br> Research Scientist <br> Allen Institute for AI (AI2) </small> </td>
     <!-- <td style="text-align:center"><a href="https://dawnsong.io/">Dawn Song</a> <small> <br> Professor <br> University of California, Berkeley	</small> </td> -->
     <!-- <td style="text-align:center"><a href="https://riceric22.github.io/">Eric Wong</a> <small> <br> Assistant Professor <br> University of Pennsylvania </small> </td> -->
   </tr>
