@@ -58,7 +58,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 
 <!-- ### Speakers (TBD) -->
 
-### Speakers (Still Updating)
+### Speakers
 
 <table style="width:100%">
   <tr>
