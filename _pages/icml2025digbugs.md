@@ -78,13 +78,15 @@ Through expert talks, panel discussions, and interactive sessions, participants 
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/nouhadziri-square.jpg" height="170" width="170"></td>
 
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/tatsuhashimoto-square.jpg" height="170" width="170"></td>
+
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/ericwong-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://nouhadziri.github.io/">Nouha Dziri</a> <small> <br> Research Scientist <br> Allen Institute for AI (AI2) </small> </td>
 
     <td style="text-align:center"><a href="https://thashim.github.io/">Tatsunori Hashimoto</a> <small> <br> Assistant Professor <br> Stanford University </small> </td>
 
-    <!-- <td style="text-align:center"><a href="https://riceric22.github.io/">Eric Wong</a> <small> <br> Assistant Professor <br> University of Pennsylvania </small> </td> -->
+    <td style="text-align:center"><a href="https://riceric22.github.io/">Eric Wong</a> <small> <br> Assistant Professor <br> University of Pennsylvania </small> </td>
   </tr>
 </table>
 
