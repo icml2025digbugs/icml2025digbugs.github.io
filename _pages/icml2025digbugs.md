@@ -110,7 +110,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 
 ### Call for Papers
 
-**We cordially invite submissions and participation in our “Data in Generative Models (The Bad, the Ugly, and the Greats)” workshop that will be held on July 18th or July 19th, 2025 at the Forty-Second International Conference on Machine Learning (ICML) 2025 in Vancouver, Canada.**
+**We cordially invite submissions and participation in our “Data in Generative Models (The Bad, the Ugly, and the Greats)” workshop that will be held on July 19th, 2025 at the Forty-Second International Conference on Machine Learning (ICML) 2025 in Vancouver, Canada.**
 
 <!-- The submission deadline is **<s>September 29, 2023</s> October 6th, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>. -->
 
@@ -149,17 +149,17 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆 -->
 
-### Important Dates (Tentative)
+### Important Dates
 
 * **Submission deadline**: May 20th, 2025, 11:59 PM Anywhere on Earth (AoE)
 * **Author notification**: June 9th, 2025
 * **Camera-ready deadline**: June 30th, 2025 11:59 PM Anywhere on Earth (AoE)
-* **Workshop date**: TBD (Full-day Event)
+* **Workshop date**: July 19th, 2025 (Full-day Event)
 
 ### Submission Instructions
-Papers should be submitted to OpenReview: https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG
+Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG">https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG</a>
 
-We welcome both **long** (up to 6 pages) and **short/position** (up to 4 pages) papers, excluding references, acknowledgments, or appendices. Please use the submission template provided at https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip. Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
+We welcome both **long** (up to 6 pages) and **short/position** (up to 4 pages) papers, excluding references, acknowledgments, or appendices. Please use the submission template provided <a href="https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip">here</a>. Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
 
 <!-- Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>
 
