@@ -64,26 +64,27 @@ Through expert talks, panel discussions, and interactive sessions, participants 
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/pinyuchen-square.webp" height="170" width="170"></td>
     <!-- <td style="text-align:center"><img src="assets/img/icml2025/speakers/zicokolter-square.jpg" height="170" width="170"></td> -->
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/ericwallace-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><a href="https://nouhadziri.github.io/">Nouha Dziri</a> <small> <br> Research Scientist <br> Allen Institute for AI (AI2) </small> </td>
+
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/sanmikoyejo-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://sites.google.com/site/pinyuchenpage/home">Pin-Yu Chen</a> <small> <br> Principal Research Scientist <br> IBM Research AI </small> </td>
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/nouhadziri-square.jpg" height="170" width="170"></td>
     <!-- <td style="text-align:center"><a href="https://zicokolter.com/">Zico Kolter</a> <small> <br> Professor <br> Carnegie Mellon University </small> </td> -->
-    <td style="text-align:center"><a href="https://www.ericswallace.com/">Eric Wallace</a> <small> <br> Member of Technical Staff <br> OpenAI </small> </td>
     <td style="text-align:center"><a href="https://cs.stanford.edu/~sanmi/">Sanmi Koyejo</a> <small><br> Assistant Professor <br> Stanford University </small></td>
   </tr>
   <tr>
-    
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/nouhadziri-square.jpg" height="170" width="170"></td>
-
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/ericwallace-square.jpg" height="170" width="170"></td>
+        
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/tatsuhashimoto-square.jpg" height="170" width="170"></td>
 
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/ericwong-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://nouhadziri.github.io/">Nouha Dziri</a> <small> <br> Research Scientist <br> Allen Institute for AI (AI2) </small> </td>
-
+    <td style="text-align:center"><a href="https://www.ericswallace.com/">Eric Wallace</a> <small> <br> Member of Technical Staff <br> OpenAI </small> </td>
+    
+    
     <td style="text-align:center"><a href="https://thashim.github.io/">Tatsunori Hashimoto</a> <small> <br> Assistant Professor <br> Stanford University </small> </td>
 
     <td style="text-align:center"><a href="https://riceric22.github.io/">Eric Wong</a> <small> <br> Assistant Professor <br> University of Pennsylvania </small> </td>
