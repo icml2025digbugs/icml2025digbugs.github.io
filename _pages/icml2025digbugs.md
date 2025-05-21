@@ -149,7 +149,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: May 20th, 2025, 11:59 PM Anywhere on Earth (AoE)
+* **Submission deadline**: ~~May 20th, 2025~~ May 25th, 2025, 11:59 PM Anywhere on Earth (AoE)
 * **Author notification**: June 9th, 2025
 * **Camera-ready deadline**: June 30th, 2025 11:59 PM Anywhere on Earth (AoE)
 * **Workshop date**: July 19th, 2025 (Full-day Event)
