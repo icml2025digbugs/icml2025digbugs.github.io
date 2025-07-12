@@ -9,8 +9,8 @@ description: <strong>The Bad, the Ugly, and the Greats</strong> - Building relia
 social: true
 ---
 
-<!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
-<td style="text-align:center"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
+#### ⭐ **West Ballroom A, Vancouver Convention Centre, 8:55 AM - 5 PM PDT, July 19th, 2025** ⭐
+<br>
 
 Generative models have become extremely powerful and are now integral to various aspects of daily life from creative arts to customer service. Given their increasing interaction with people, ensuring their trustworthiness is crucial. This workshop centers on the idea that the safety and reliability of generative models are deeply connected to the nature and treatment of their training data. We aim to explore the hypothesis that building reliable and trustworthy artificial intelligence (AI) systems based on generative models must start with high-quality and responsibly managed data.
 
@@ -18,45 +18,65 @@ The workshop will focus on several key areas where training data impacts the tru
 
 Through expert talks, panel discussions, and interactive sessions, participants will delve into these issues and explore strategies for developing safe, trustworthy, and reliable generative models. This workshop aims to foster collaboration and drive forward research to ensure that generative models, as they become more embedded in our lives, do so in a trustworthy and beneficial manner.
 
-<!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
+<!-- ### Best Paper Polls
+
+<style>
+    .iframe-container {
+      display: flex;
+      gap: 100px; /* Adjust the gap between iframes */
+    }
+    iframe {
+      width: 600px; /* Adjust width as needed */
+      height: 600px;
+      border: 1px solid #ccc;
+    }
+  </style>
+
+  <div class="iframe-container">
+    <iframe src='https://app.sli.do/event/6YvoB561peHHuDL57cTaRs/embed/polls/19ff4fe4-11e6-4340-9fe5-fc8d06628884'></iframe>
+    <iframe src='https://app.sli.do/event/6YvoB561peHHuDL57cTaRs/embed/polls/7a6ade8f-cb7b-4f49-8f22-2e1a6d13f05b'></iframe>
+  </div> -->
+
+<!-- <iframe src='https://app.sli.do/event/6YvoB561peHHuDL57cTaRs/embed/polls/19ff4fe4-11e6-4340-9fe5-fc8d06628884' width='300' height='400'></iframe>
+
+
+<iframe src='https://app.sli.do/event/6YvoB561peHHuDL57cTaRs/embed/polls/7a6ade8f-cb7b-4f49-8f22-2e1a6d13f05b' width='300' height='400'></iframe> -->
 
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
 ### Schedule
 
-<!-- ⭐ **Link to NeurIPS page: [https://neurips.cc/virtual/2023/workshop/66550](https://neurips.cc/virtual/2023/workshop/66550)** ⭐ -->
-#### ⭐ **Coming Soon** ⭐
+⭐ **[ICML Official Page](https://icml.cc/virtual/2025/workshop/39952){:target="_blank"}** ⭐
 
-
-<!-- |----------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Start Time (CST/GMT-06:00, New Orleans)  |  Session                                                 | Speaker(s)                                                                            |
-|:---------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
-| 08:55 am | Opening Remarks                                                                            | Organizers                                                                            |
-|---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 09:00 am | **Invited Talk 1:** A Blessing in Disguise: Backdoor Attacks as Watermarks for Dataset Copyright | Yiming Li |
-| 09:30 am | **Invited Talk 2:** Recent Advances in Backdoor Defense and Benchmark | Baoyuan Wu  |
-| 10:00 am | Coffee Break                                                                           |  |
-|---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 10:30 am | **Invited Talk 3:** The difference between safety and security for watermarking                                                                                | Jonas Geiping |
-| 11:00 am | **Oral 1:** Effective Backdoor Mitigation Depends on the Pre-training Objective | Sahil Verma, Gantavya Bhatt, Soumye Singhal, Arnav Das, Chirag Shah, John Dickerson, Jeff A Bilmes |
-| 11:15 am  | **Invited Talk 4:** Universal jailbreak backdoors from poisoned human feedback | Florian Tramèr |
-| 11:45 am | Lunch Break | |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 01:00 pm | **Oral 2:** VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models | Sheng-Yen Chou, Pin-Yu Chen, Tsung-Yi Ho |
-| 01:15 pm | **Oral 3:** The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline | Haonan Wang, Qianli Shen, Yao Tong, Yang Zhang, Kenji Kawaguchi |
-| 01:30 pm | **Invited talk 5:** Is this model mine? On stealing and defending machine learning models | Adam Dziedzic |
-| 02:00 pm | **Invited talk 6**                                                                           | Ruoxi Jia |
-| 02:30 pm | Coffee Break                                                                     |  |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 03:00 pm | **Poster Session**                                                                                | Paper Authors |
-| 03:45 pm | **Oral 4:** Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection | Jun Yan, Vikas Yadav, Shiyang Li, Lichang Chen, Zheng Tang, Hai Wang, Vijay Srinivasan, Xiang Ren, Hongxia Jin |
-| 04:00 pm | **Oral 5:** BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models | Zhen Xiang, Fengqing Jiang, Zidi Xiong, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li |
-| 04:15 pm | **Invited Talk 7:** Decoding Backdoors in LLMs and Their Implications | Bo Li |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 04:45 pm | **Panel Discussion**                                                                     | Moderator: Eugene Bagdasaryan |
-| 05:15 pm   | Closing Remarks                                                                        | Organizers    |  -->
-
-
-<!-- ### Speakers (TBD) -->
+|<span style="display: inline-block; width:200px">Event Start Time <br> (PDT/GMT-07:00, Vancouver, Canada)</span>|<span style="display: inline-block; width:500px">Session</span>|<span style="display: inline-block; width:200px">Speaker(s)</span>|
+|:---------------------|:--------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
+| 08:55 am | Welcome Remarks                                                                                                                        | Organizers                        |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 09:00 am | **Invited Talk 1** <br> Dynamic & Stateful Evals of Safety on the Frontier: What can Academics do?                                     | Eric Wong                         |
+| 09:30 am | **Oral 1** <br> Preference Leakage: A Contamination Problem in LLM-as-a-judge                                                          | Dawei Li                          |
+| 09:45 am | **Oral 2** <br> Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets | Lei Hsiung                        |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 10:00 am | Coffee Break                                                                                |                                                                              |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 10:30 am | **Invited Talk 2** <br> There's No Free Lunch in Safety in Fine-tuning Large Language Models                                           | Pin-Yu Chen                       |
+| 11:00 am | **Oral 3** <br> Both Text and Images Leaked! A Systematic Analysis of Data Contamination in Multimodal LLMs                            | Sicheng Lai                       |
+| 11:15 am | **Invited Talk 3** <br> Building Trustworthy LLMs: How Data Quality Shapes Performance and Where It Falls Short?                       | Nouha Dziri                       |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 11:45 am | Lunch Break                                                                                 |                                                                              |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 01:00 pm | **Invited Talk 4:** <br> TBD                                                                                                           | Tatsunori Hashimoto               |
+| 01:30 pm | **Oral 4:** <br> Training Diffusion Models with Noisy Data via SFBD Flow                                                               | Haoye Lu                          |
+| 01:45 pm | **Invited talk 5:** <br> Security and Privacy in the Year of the Agent                                                                 | Ivan Evtimov                      |
+| 02:15 pm | **Oral 5:** <br> Unlocking Post-hoc Dataset Inference with Synthetic Data                                                              | Pratyush Maini                    |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 02:30 pm | Coffee Break                                                                                |                                                                              |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 03:00 pm | **Poster Session**                                                                                                                     | Paper Authors                     |
+| 03:45 pm | **Invited talk 6** <br> TBD                                                                                                            | Serena Booth                      |
+| 04:45 pm | Panel Discussion                                                                            | Pin-Yu Chen, Eric Wong, Nouha Dziri, Ivan Evtimov, Serena Booth <br> Moderator: TBD        |
+| 04:45 pm | Paper Awards                                                                                                                           | Organizers                        |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 04:55 pm | Closing Remarks                                                                                                                        | Organizers                        |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------| 
 
 ### Speakers
 
@@ -83,9 +103,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
   </tr>
 </table>
 
-<!-- ### Panelists (Still Updating) -->
-
-<!-- ### Panelists (Tentative) -->
+<!-- ### Panelists -->
 
 <!-- 
 <table style="width:100%">
@@ -104,8 +122,6 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 ### Call for Papers
 
 **We cordially invite submissions and participation in our “Data in Generative Models (The Bad, the Ugly, and the Greats)” workshop that will be held on July 19th, 2025 at the Forty-Second International Conference on Machine Learning (ICML) 2025 in Vancouver, Canada.**
-
-<!-- The submission deadline is **<s>September 29, 2023</s> October 6th, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>. -->
 
 #### Motivation and Topics
 
@@ -137,11 +153,6 @@ The workshop will employ a double-blind review process. Each submission will be 
 
 We only consider submissions that haven’t been published in any peer-reviewed venue, including ICML 2025 conference. **We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings**. All accepted papers will be allocated either a poster presentation or a talk slot.
  
-<!-- ### Call for Reviewers
-Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L9_o7vAZUSWjWMxi18jZHuIrBaafUBm6v1fTZQorK2o9Qw/viewform) if you are interested in reviewing for the workshop.
-
-🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆 -->
-
 ### Important Dates
 
 * **Submission deadline**: ~~May 20th, 2025~~ May 25th, 2025, 11:59 PM Anywhere on Earth (AoE)
@@ -154,22 +165,17 @@ Papers should be submitted to OpenReview: <a href="https://openreview.net/group?
 
 We welcome both **long** (up to 6 pages) and **short/position** (up to 4 pages) papers, excluding references, acknowledgments, or appendices. Please use the submission template provided <a href="https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip">here</a>. Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
 
-<!-- Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>
+### Workshop Swag
 
-Submitted papers should have up to 6 pages (excluding references, acknowledgments, or appendices). Please use the NeurIPS submission template provided at <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles">https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles</a>.
-Submissions must be anonymous following NeurIPS double-blind reviewing guidelines, NeurIPS Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows. -->
+Our workshop T-shirt was designed by 
 
 ### Workshop Sponsors
 
 #### ⭐ **Please reach out if you would like to sponsor our workshop.** ⭐
 
-<!-- <table style="width:100%; border: none;">
-<td style="text-align:center; border: none;"><a href="https://troj.ai/"><img src="assets/img/sponsor-troj-ai.png" height="55"></a></td>
-
-<td style="text-align:center; border: none;"><a href="https://ml.umd.edu/"><img src="assets/img/sponsor-umd-cml.png" height="65"></a></td>
-
-<td style="text-align:center; border: none;"><a href="https://www.google.org/"><img src="assets/img/sponsor-google.png" height="75"></a></td>
-</table> -->
+<table style="width:100%; border: none;">
+<td style="text-align:center; border: none;"><a href="https://troj.ai/"><img src="assets/img/icml2025/sponsors/VinUni-CECS.png" height="150"></a></td>
+</table>
 
 ### Organizers 
 
