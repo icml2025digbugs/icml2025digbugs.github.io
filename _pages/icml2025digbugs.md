@@ -167,7 +167,7 @@ We welcome both **long** (up to 6 pages) and **short/position** (up to 4 pages) 
 
 ### Workshop Swag
 
-Our workshop T-shirt was designed by <a href="https://oinghosh.github.io/" target="_blank">Oindrila Ghosh</a>, <a href="https://ani0075saha.github.io/" target="_blank">Aniruddha Saha</a>, <a href="https://chatgpt.com/" target="_blank">ChatGPT 4o</a>, <a href="https://www.linkedin.com/in/icey-han-nguyen/?originalSubdomain=vn" target="_blank">Aniruddha Saha</a> and <a href="https://mail-research.com/" target="_blank">Khoa D Doan</a>.
+Our workshop T-shirt was designed by <a href="https://oinghosh.github.io/" target="_blank">Oindrila Ghosh</a>, <a href="https://ani0075saha.github.io/" target="_blank">Aniruddha Saha</a>, <a href="https://chatgpt.com/" target="_blank">ChatGPT 4o</a>, <a href="https://www.linkedin.com/in/icey-han-nguyen/?originalSubdomain=vn" target="_blank">Han Nguyen</a> and <a href="https://mail-research.com/" target="_blank">Khoa D Doan</a>.
 
 If you want to take a look at the co-design process with ChatGPT, here are the chats ([1](https://chatgpt.com/share/6872b4aa-7ad0-800e-8f8a-a1b6b424250f){:target="_blank"}, [2](https://chatgpt.com/share/6872b4ee-7f58-800e-94fe-cda107e133ab){:target="_blank"}, [3](https://chatgpt.com/share/6872b502-f294-800e-aa58-fa598f41ad21){:target="_blank"}, [4](https://chatgpt.com/share/6872b511-3518-800e-8020-0d1d9c2dfb60){:target="_blank"}, [5](https://chatgpt.com/share/6872b51f-65bc-800e-af68-56aed0028aec){:target="_blank"}).
 
