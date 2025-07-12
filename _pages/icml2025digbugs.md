@@ -87,9 +87,9 @@ Through expert talks, panel discussions, and interactive sessions, participants 
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/nouhadziri-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://slbooth.com/">Serena Booth</a> <small> <br> Assistant Professor <br> Brown University </small> </td>
-    <td style="text-align:center"><a href="https://sites.google.com/site/pinyuchenpage/home">Pin-Yu Chen</a> <small> <br> Principal Research Scientist <br> IBM Research AI </small> </td>
-    <td style="text-align:center"><a href="https://nouhadziri.github.io/">Nouha Dziri</a> <small> <br> Research Scientist <br> Allen Institute for AI (AI2) </small> </td>    
+    <td style="text-align:center"><a href="https://slbooth.com/" target="_blank">Serena Booth</a> <small> <br> Assistant Professor <br> Brown University </small> </td>
+    <td style="text-align:center"><a href="https://sites.google.com/site/pinyuchenpage/home" target="_blank">Pin-Yu Chen</a> <small> <br> Principal Research Scientist <br> IBM Research AI </small> </td>
+    <td style="text-align:center"><a href="https://nouhadziri.github.io/" target="_blank">Nouha Dziri</a> <small> <br> Research Scientist <br> Allen Institute for AI (AI2) </small> </td>    
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/ivanevtimov-square.jpg" height="170" width="170"></td>
@@ -97,9 +97,9 @@ Through expert talks, panel discussions, and interactive sessions, participants 
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/ericwong-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.linkedin.com/in/ivanevtimov5/">Ivan Evtimov</a> <small> <br> Research Scientist <br> Meta AI Red Team </small> </td>   
-    <td style="text-align:center"><a href="https://thashim.github.io/">Tatsunori Hashimoto</a> <small> <br> Assistant Professor <br> Stanford University </small> </td>
-    <td style="text-align:center"><a href="https://riceric22.github.io/">Eric Wong</a> <small> <br> Assistant Professor <br> University of Pennsylvania </small> </td>
+    <td style="text-align:center"><a href="https://www.linkedin.com/in/ivanevtimov5/" target="_blank">Ivan Evtimov</a> <small> <br> Research Scientist <br> Meta AI Red Team </small> </td>   
+    <td style="text-align:center"><a href="https://thashim.github.io/" target="_blank">Tatsunori Hashimoto</a> <small> <br> Assistant Professor <br> Stanford University </small> </td>
+    <td style="text-align:center"><a href="https://riceric22.github.io/" target="_blank">Eric Wong</a> <small> <br> Assistant Professor <br> University of Pennsylvania </small> </td>
   </tr>
 </table>
 
@@ -125,7 +125,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 
 #### Motivation and Topics
 
-Building upon the success of our previous workshop, <a href="https://neurips2023-bugs.github.io/">BUGS@NeurIPS 2023</a>, we will continue to explore the impact of data on AI *beyond backdoor attacks*. A key enhancement of the new 2025 edition of the workshop is the substantial expansion of the 2023 research themes, focusing on the interaction between Datasets and Generative Models, including large language models, diffusion models, and vision-language models. Examples of research areas include: 
+Building upon the success of our previous workshop, <a href="https://neurips2023-bugs.github.io/" target="_blank">BUGS@NeurIPS 2023</a>, we will continue to explore the impact of data on AI *beyond backdoor attacks*. A key enhancement of the new 2025 edition of the workshop is the substantial expansion of the 2023 research themes, focusing on the interaction between Datasets and Generative Models, including large language models, diffusion models, and vision-language models. Examples of research areas include: 
 * **Data-Centric Approach to the Safety of Generative Models (general theme):** Most research in safe machine learning concentrates primarily on evaluating model properties [(Papernot et. al.)] [ref1]. However, from a data-centric perspective, we focus on the safety of generative models, such as LLMs and diffusion models. This strategy will create new methodologies and reveal vulnerabilities and potential threats that have not been previously sufficiently recognized by the research community.
 
 
@@ -161,20 +161,21 @@ We only consider submissions that haven’t been published in any peer-reviewed 
 * **Workshop date**: July 19th, 2025 (Full-day Event)
 
 ### Submission Instructions
-Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG">https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG</a>
+Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG target="_blank"">https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG</a>
 
-We welcome both **long** (up to 6 pages) and **short/position** (up to 4 pages) papers, excluding references, acknowledgments, or appendices. Please use the submission template provided <a href="https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip">here</a>. Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
+We welcome both **long** (up to 6 pages) and **short/position** (up to 4 pages) papers, excluding references, acknowledgments, or appendices. Please use the submission template provided <a href="https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip" target="_blank">here</a>. Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
 
 ### Workshop Swag
 
-Our workshop T-shirt was designed by 
+Our workshop T-shirt was designed by <a href="https://oinghosh.github.io/" target="_blank">Oindrila Ghosh</a>, <a href="https://ani0075saha.github.io/" target="_blank">Aniruddha Saha</a>, <a href="https://chatgpt.com/" target="_blank">ChatGPT 4o</a>, <a href="https://www.linkedin.com/in/icey-han-nguyen/?originalSubdomain=vn" target="_blank">Aniruddha Saha</a> and <a href="https://mail-research.com/" target="_blank">Khoa D Doan</a>.
 
-### Workshop Sponsors
+If you want to take a look at the co-design process with ChatGPT, here are the chats ([1](https://chatgpt.com/share/6872b4aa-7ad0-800e-8f8a-a1b6b424250f){:target="_blank"}, [2](https://chatgpt.com/share/6872b4ee-7f58-800e-94fe-cda107e133ab){:target="_blank"}, [3](https://chatgpt.com/share/6872b502-f294-800e-aa58-fa598f41ad21){:target="_blank"}, [4](https://chatgpt.com/share/6872b511-3518-800e-8020-0d1d9c2dfb60){:target="_blank"}, [5](https://chatgpt.com/share/6872b51f-65bc-800e-af68-56aed0028aec){:target="_blank"}).
 
+### Workshop Sponsors 
 #### ⭐ **Please reach out if you would like to sponsor our workshop.** ⭐
 
 <table style="width:100%; border: none;">
-<td style="text-align:center; border: none;"><a href="https://troj.ai/"><img src="assets/img/icml2025/sponsors/VinUni-CECS.png" height="150"></a></td>
+<td style="text-align:center; border: none;"><a href="https://cecs.vinuni.edu.vn/" target="_blank"><img src="assets/img/icml2025/sponsors/VinUni-CECS.png" height="150"></a></td>
 </table>
 
 ### Organizers 
@@ -188,10 +189,10 @@ Our workshop T-shirt was designed by
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/boli-square.png" height="150" width="150"></td>
     </tr>
   <tr>
-    <td style="text-align:center"><a href="https://cispa.de/en/people/c01frbo">Franziska Boenisch</a> <br> <small> CISPA Helmholtz Center for Information Security </small> </td>
-    <td style="text-align:center"><a href="https://mail-research.com/">Khoa D Doan</a> <small> <br> CECS-VinUniversity & VinUni-Illinois Smart Health Center </small> </td>
-    <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <small> <br> CISPA Helmholtz Center for Information Security </small> </td>
-    <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <small> <br>University of Illinois at Urbana-Champaign </small> </td>
+    <td style="text-align:center"><a href="https://cispa.de/en/people/c01frbo" target="_blank">Franziska Boenisch</a> <br> <small> CISPA Helmholtz Center for Information Security </small> </td>
+    <td style="text-align:center"><a href="https://mail-research.com/" target="_blank">Khoa D Doan</a> <small> <br> CECS-VinUniversity & VinUni-Illinois Smart Health Center </small> </td>
+    <td style="text-align:center"><a href="https://adam-dziedzic.com/" target="_blank">Adam Dziedzic</a> <small> <br> CISPA Helmholtz Center for Information Security </small> </td>
+    <td style="text-align:center"><a href="https://aisecure.github.io/" target="_blank">Bo Li</a> <small> <br>University of Illinois at Urbana-Champaign </small> </td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/vietanhnguyen-square.jpg" height="150" width="150"></td>
@@ -200,10 +201,10 @@ Our workshop T-shirt was designed by
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/heatherzheng-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.vietanhnguyen.net/">Viet Anh Nguyen</a> <small> <br>Chinese University of Hong Kong </small> </td>
-    <td style="text-align:center"><a href="https://ani0075saha.github.io/">Aniruddha Saha</a> <small> <br>Independent Researcher </small> </td>
-    <td style="text-align:center"><a href="https://zhentingwang.github.io/">Zhenting Wang</a> <small> <br>Rutgers University </small> </td>
-    <td style="text-align:center"><a href="https://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> <small> <br>University of Chicago </small> </td>
+    <td style="text-align:center"><a href="https://www.vietanhnguyen.net/" target="_blank">Viet Anh Nguyen</a> <small> <br>Chinese University of Hong Kong </small> </td>
+    <td style="text-align:center"><a href="https://ani0075saha.github.io/" target="_blank">Aniruddha Saha</a> <small> <br>Independent Researcher </small> </td>
+    <td style="text-align:center"><a href="https://zhentingwang.github.io/" target="_blank">Zhenting Wang</a> <small> <br>Rutgers University </small> </td>
+    <td style="text-align:center"><a href="https://people.cs.uchicago.edu/~htzheng/" target="_blank">Heather Zheng</a> <small> <br>University of Chicago </small> </td>
   </tr>
 </table>
 
@@ -212,17 +213,17 @@ Our workshop T-shirt was designed by
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="50"></a></td>    
-    <td style="text-align:center; border: none; spacing: none"><a href="https://illinois.edu/"><img src="assets/img/icml2025/organizers/affiliations/uiuc.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.rutgers.edu/"><img src="assets/img/icml2025/organizers/affiliations/rutgers.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.uic.edu/"><img src="assets/img/icml2025/organizers/affiliations/uic.png" height="60"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en" target="_blank"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="50"></a></td>    
+    <td style="text-align:center; border: none; spacing: none"><a href="https://illinois.edu/" target="_blank"><img src="assets/img/icml2025/organizers/affiliations/uiuc.png" height="50"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.rutgers.edu/" target="_blank"><img src="assets/img/icml2025/organizers/affiliations/rutgers.png" height="50"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.uic.edu/" target="_blank"><img src="assets/img/icml2025/organizers/affiliations/uic.png" height="60"></a></td>
   </tr>
 </table>
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://cecs.vinuni.edu.vn/"><img src="assets/img/icml2025/organizers/affiliations/vinuni.png" height="50"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://smarthealth.vinuni.edu.vn/"><img src="assets/img/icml2025/organizers/affiliations/shc.png" height="50"></a></td>    
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.cuhk.edu.hk/english/index.html"><img src="assets/img/icml2025/organizers/affiliations/cuhk.png" height="50"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://cecs.vinuni.edu.vn/" target="_blank"><img src="assets/img/icml2025/organizers/affiliations/vinuni.png" height="50"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://smarthealth.vinuni.edu.vn/" target="_blank"><img src="assets/img/icml2025/organizers/affiliations/shc.png" height="50"></a></td>    
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.cuhk.edu.hk/english/index.html" target="_blank"><img src="assets/img/icml2025/organizers/affiliations/cuhk.png" height="50"></a></td>
   </tr>
 </table>
 
