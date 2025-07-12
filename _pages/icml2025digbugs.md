@@ -64,14 +64,14 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 | 11:45 am | Lunch Break                                                                                 |                                                                              |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 01:00 pm | **Invited Talk 4:** <br> TBD                                                                                                           | Tatsunori Hashimoto               |
-| 01:30 pm | **Oral 4:** <br> Training Diffusion Models with Noisy Data via SFBD Flow                                                               | Haoye Lu                          |
-| 01:45 pm | **Invited talk 5:** <br> Security and Privacy in the Year of the Agent                                                                 | Ivan Evtimov                      |
-| 02:15 pm | **Oral 5:** <br> Unlocking Post-hoc Dataset Inference with Synthetic Data                                                              | Pratyush Maini                    |
+| 01:30 pm | **Oral 4** <br> Training Diffusion Models with Noisy Data via SFBD Flow                                                                | Haoye Lu                          |
+| 01:45 pm | **Invited Talk 5** <br> Security and Privacy in the Year of the Agent                                                                  | Ivan Evtimov                      |
+| 02:15 pm | **Oral 5** <br> Unlocking Post-hoc Dataset Inference with Synthetic Data                                                               | Pratyush Maini                    |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 02:30 pm | Coffee Break                                                                                |                                                                              |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 03:00 pm | **Poster Session**                                                                                                                     | Paper Authors                     |
-| 03:45 pm | **Invited talk 6** <br> TBD                                                                                                            | Serena Booth                      |
+| 03:45 pm | **Invited Talk 6** <br> TBD                                                                                                            | Serena Booth                      |
 | 04:45 pm | Panel Discussion                                                                            | Pin-Yu Chen, Eric Wong, Nouha Dziri, Ivan Evtimov, Serena Booth <br> Moderator: TBD        |
 | 04:45 pm | Paper Awards                                                                                                                           | Organizers                        |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
