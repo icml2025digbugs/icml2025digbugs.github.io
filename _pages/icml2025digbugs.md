@@ -47,7 +47,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 
 ⭐ **[ICML Official Page](https://icml.cc/virtual/2025/workshop/39952){:target="_blank"}** ⭐
 
-|<span style="display: inline-block; width:200px">Event Start Time <br> (PDT/GMT-07:00, Vancouver, Canada)</span>|<span style="display: inline-block; width:500px">Session</span>|<span style="display: inline-block; width:200px">Speaker(s)</span>|
+|<span style="display: inline-block; width:175px">Event Start Time <br> (PDT/GMT-07:00, Vancouver, Canada)</span>|<span style="display: inline-block; width:450px">Session</span>|<span style="display: inline-block; width:200px">Speaker(s)</span>|
 |:---------------------|:--------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
 | 08:55 am | Welcome Remarks                                                                                                                        | Organizers                        |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -71,7 +71,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 | 02:30 pm | Coffee Break                                                                                |                                                                              |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 03:00 pm | **Poster Session**                                                                                                                     | Paper Authors                     |
-| 03:45 pm | **Invited Talk 6** <br> TBD                                                                                                            | Serena Booth                      |
+| 03:45 pm | **Invited Talk 6** <br> On Specification Data                                                                                          | Serena Booth                      |
 | 04:45 pm | Panel Discussion                                                                            | Pin-Yu Chen, Eric Wong, Nouha Dziri, Ivan Evtimov, Serena Booth <br> Moderator: TBD        |
 | 04:45 pm | Paper Awards                                                                                                                           | Organizers                        |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
