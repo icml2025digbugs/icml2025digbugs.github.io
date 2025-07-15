@@ -65,7 +65,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 01:00 pm | **Invited Talk 4** <br> Data-centric LM research on an academic budget                                                                  | Tatsunori Hashimoto               |
 | 01:30 pm | **Oral 4** <br> Training Diffusion Models with Noisy Data via SFBD Flow                                                                | Haoye Lu                          |
-| 01:45 pm | **Invited Talk 5** <br> Security and Privacy in the Year of the Agent                                                                  | Ivan Evtimov                      |
+| 01:45 pm | **Invited Talk 5** <br> How (not) to hack AI?                                                                                          | Ivan Evtimov                      |
 | 02:15 pm | **Oral 5** <br> Unlocking Post-hoc Dataset Inference with Synthetic Data                                                               | Pratyush Maini                    |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 02:30 pm | Coffee Break                                                                                |                                                                              |
