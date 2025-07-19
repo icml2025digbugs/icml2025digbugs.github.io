@@ -72,7 +72,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 03:00 pm | **Poster Session**                                                                                                                     | Paper Authors                     |
 | 03:45 pm | **Invited Talk 6** <br> On Specification Data                                                                                          | Serena Booth                      |
-| 04:45 pm | Panel Discussion                                                                            | Pin-Yu Chen, Eric Wong, Nouha Dziri, Ivan Evtimov, Serena Booth <br> Moderator: TBD        |
+| 04:15 pm | Panel Discussion                                                                            | Pin-Yu Chen, Eric Wong, Ivan Evtimov, Serena Booth <br> Moderator: Aniruddha Saha       |
 | 04:45 pm | Paper Awards                                                                                                                           | Organizers                        |
 |----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 04:55 pm | Closing Remarks                                                                                                                        | Organizers                        |
