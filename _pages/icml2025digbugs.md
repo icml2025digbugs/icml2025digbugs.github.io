@@ -160,7 +160,7 @@ We only consider submissions that haven’t been published in any peer-reviewed 
 * **Workshop date**: July 19th, 2025 (Full-day Event)
 
 ### Submission Instructions
-Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG target="_blank"">https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG</a>
+Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG" target="_blank">https://openreview.net/group?id=ICML.cc/2025/Workshop/DIG-BUG</a>
 
 We welcome both **long** (up to 6 pages) and **short/position** (up to 4 pages) papers, excluding references, acknowledgments, or appendices. Please use the submission template provided <a href="https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip" target="_blank">here</a>. Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
 
