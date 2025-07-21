@@ -18,6 +18,11 @@ The workshop will focus on several key areas where training data impacts the tru
 
 Through expert talks, panel discussions, and interactive sessions, participants will delve into these issues and explore strategies for developing safe, trustworthy, and reliable generative models. This workshop aims to foster collaboration and drive forward research to ensure that generative models, as they become more embedded in our lives, do so in a trustworthy and beneficial manner.
 
+#### ⭐ **Awards** ⭐
+<br>
+**Best Paper** - Preference Leakage: A Contamination Problem in LLM-as-a-judge
+**Best Poster** -  Data Cartography for Detecting Memorization Hotspots and Guiding Data Interventions in Generative Models
+
 <!-- ### Best Paper Polls
 
 <style>
