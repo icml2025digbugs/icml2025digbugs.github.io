@@ -20,7 +20,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 
 #### ⭐ **Awards** ⭐
 <br>
-**Best Paper** - Preference Leakage: A Contamination Problem in LLM-as-a-judge
+**Best Paper** - Preference Leakage: A Contamination Problem in LLM-as-a-judge <br>
 **Best Poster** -  Data Cartography for Detecting Memorization Hotspots and Guiding Data Interventions in Generative Models
 
 <!-- ### Best Paper Polls
